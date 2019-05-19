@@ -3,7 +3,6 @@ import Titles from './components/Titles';
 import Form from './components/Form';
 import Weather from './components/Weather';
 
-
 const API_KEY= '46699eb5ebcf527b5236072a90e9c972';
 
 class App extends React.Component {
@@ -36,11 +35,9 @@ class App extends React.Component {
                 description: undefined,
                 error: "Please enter the values"
             });
-
-            }
-
+           }
         }
-            render() {
+        render() {
         return (
              <div className="container">
                    <Titles />
@@ -50,16 +47,9 @@ class App extends React.Component {
                               humidity={this.state.humidity}
                               description={this.state.description}
                               error={this.state.error}
-
-
-
-
-                     />
-
+                 />
              </div>
         );
     }
-
 }
-
 export default App;
