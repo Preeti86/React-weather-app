@@ -2,11 +2,11 @@ Weather app with Reactjs
 
 Usage
 
-git clone https://github.com/Preeti86/React-weather-app.git
-cd weather-app
-npm install
-npm start
-open http://localhost:3000
+1) git clone https://github.com/Preeti86/React-weather-app.git
+2) cd weather-app
+3) npm install
+4) npm start
+5) open http://localhost:3000
 
 Challenge
 
