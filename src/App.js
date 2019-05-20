@@ -55,14 +55,13 @@ class App extends React.Component {
                                                   description={this.state.description}
                                                   error={this.state.error}
                                                      />
+                                            </div>
+                                               </div>
+                                                </div>
                                                     </div>
-                                            </div>
-                                             </div>
-                                            </div>
-                 </div>
-                  </div>
-
-        );
+                                                        </div>
+                                                            </div>
+       );
     }
 }
 export default App;
