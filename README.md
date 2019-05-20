@@ -20,6 +20,8 @@ Solution
 3) Live response from open weather map api that is the current weather for the named city. Location, Temperature, Humidity and Conditions.
 4) Used four components Title component, Form component, Weather component and main wrap component.
 
+Not a responsive app, in progress....
+
 
 
 
