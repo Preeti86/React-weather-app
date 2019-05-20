@@ -62,7 +62,7 @@ input[type="text"] {
     border-bottom: solid 1px #000000;
     width: 30%;
     padding-bottom: 4px;
-    color: #fff !important;
+    color: #000000 !important;
     font-weight: lighter;
     letter-spacing: 2px;
     margin-bottom: 30px;
